@@ -8,7 +8,7 @@
 int main()
 {
 	system("cls");
-	int X, Y, pilih, hasil, i, pangkat;
+	int X, Y, pilih, hasil, i;
 	
 	menu:
 		system("cls");
